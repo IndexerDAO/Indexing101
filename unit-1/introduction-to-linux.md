@@ -1,5 +1,10 @@
 # Introduction to Linux
 
+## Objectives
+* Create and manipulate folders and files
+* Create and manage permissions, security, and services
+* Some helpful commands
+
 ## Create and manipulate folders and files
 
 `ls`
@@ -40,7 +45,7 @@
 
 `dtrx`
 
-## Create and manage permissions and security
+## Create and manage permissions, security, and services
 
 `chmod`
 
@@ -58,9 +63,13 @@
 
 * Disable ssh login for root user
 
+`ssh-keygen`
+
 `ufw`
 
-## Miscellaneous
+`systemctl`
+
+## Some helpful commands
 
 `sudo !!`
 
