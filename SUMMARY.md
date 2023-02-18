@@ -24,4 +24,6 @@
 
 ## Unit 4
 
-* [What’s next?](unit-4/whats-next.md)
+* [What’s next?](unit-4/whats-next/README.md)
+  * [Example Subpage](unit-4/whats-next/example-subpage.md)
+  * [Page 1](unit-4/whats-next/page-1.md)
