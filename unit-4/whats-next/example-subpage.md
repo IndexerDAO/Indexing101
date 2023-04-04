@@ -17,9 +17,3 @@
 wadwawa
 
 </details>
-
-{% swagger method="post" path="" baseUrl="https://api.thegraph.com/subgraphs/name/graphprotocol/graph-network-mainnet " summary="" %}
-{% swagger-description %}
-
-{% endswagger-description %}
-{% endswagger %}
